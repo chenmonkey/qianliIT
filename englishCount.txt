@@ -1,0 +1,3 @@
+The arrow,missed the target.句子中的单词个数:4
+The rejected the union damand.句子中的单词个数:5
+Where does this road go to?句子中的单词个数:6
